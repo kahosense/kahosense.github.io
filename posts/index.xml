@@ -6,7 +6,16 @@
     <description>Recent content in Posts on 路易</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 22 Jun 2022 11:18:52 +0800</lastBuildDate><atom:link href="https://kahosense.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 22 Jun 2022 21:48:36 +0800</lastBuildDate><atom:link href="https://kahosense.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>HelloWorld</title>
+      <link>https://kahosense.github.io/posts/helloworld/</link>
+      <pubDate>Wed, 22 Jun 2022 21:48:36 +0800</pubDate>
+      
+      <guid>https://kahosense.github.io/posts/helloworld/</guid>
+      <description>2022了，还是想继续写博客， 人生唯一能留下的就只有文字吧。</description>
+    </item>
+    
     <item>
       <title>Supreme 官方唯一贊助的日本人？專訪日潮指標窪塚洋介</title>
       <link>https://kahosense.github.io/posts/flow/</link>

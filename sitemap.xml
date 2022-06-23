@@ -2,23 +2,23 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>kahosense.github.io/posts/helloworld/</loc>
+    <loc>https://kahosense.github.io/posts/helloworld/</loc>
     <lastmod>2022-06-22T21:48:36+08:00</lastmod>
   </url><url>
-    <loc>kahosense.github.io/posts/</loc>
+    <loc>https://kahosense.github.io/posts/</loc>
     <lastmod>2022-06-22T21:48:36+08:00</lastmod>
   </url><url>
-    <loc>kahosense.github.io/</loc>
+    <loc>https://kahosense.github.io/</loc>
     <lastmod>2022-06-22T21:48:36+08:00</lastmod>
   </url><url>
-    <loc>kahosense.github.io/posts/flow/</loc>
+    <loc>https://kahosense.github.io/posts/flow/</loc>
     <lastmod>2022-06-22T11:18:52+08:00</lastmod>
   </url><url>
-    <loc>kahosense.github.io/about/</loc>
+    <loc>https://kahosense.github.io/about/</loc>
     <lastmod>2018-12-29T20:24:28+08:00</lastmod>
   </url><url>
-    <loc>kahosense.github.io/categories/</loc>
+    <loc>https://kahosense.github.io/categories/</loc>
   </url><url>
-    <loc>kahosense.github.io/tags/</loc>
+    <loc>https://kahosense.github.io/tags/</loc>
   </url>
 </urlset>

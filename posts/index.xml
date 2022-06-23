@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on 路易</title>
-    <link>kahosense.github.io/posts/</link>
+    <link>https://kahosense.github.io/posts/</link>
     <description>Recent content in Posts on 路易</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 22 Jun 2022 21:48:36 +0800</lastBuildDate><atom:link href="kahosense.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 22 Jun 2022 21:48:36 +0800</lastBuildDate><atom:link href="https://kahosense.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>HelloWorld</title>
-      <link>kahosense.github.io/posts/helloworld/</link>
+      <link>https://kahosense.github.io/posts/helloworld/</link>
       <pubDate>Wed, 22 Jun 2022 21:48:36 +0800</pubDate>
       
-      <guid>kahosense.github.io/posts/helloworld/</guid>
+      <guid>https://kahosense.github.io/posts/helloworld/</guid>
       <description>2022了，还是想继续写博客， 人生唯一能留下的就只有文字吧。</description>
     </item>
     
     <item>
       <title>Supreme 官方唯一贊助的日本人？專訪日潮指標窪塚洋介</title>
-      <link>kahosense.github.io/posts/flow/</link>
+      <link>https://kahosense.github.io/posts/flow/</link>
       <pubDate>Wed, 22 Jun 2022 11:18:52 +0800</pubDate>
       
-      <guid>kahosense.github.io/posts/flow/</guid>
+      <guid>https://kahosense.github.io/posts/flow/</guid>
       <description>窪塚洋介，日本街頭潮流的指標人物。90 年代，因出演《金田一少年之事件簿》以演員身分正式出道，接著在當年被譽為「神劇」的《池袋西口公園》中，以滿頭癲狂金髮、桀驁不遜的少年幫派首領一角開啟知名度，並在 2001 年</description>
     </item>
     

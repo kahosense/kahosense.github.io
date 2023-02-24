@@ -2,35 +2,35 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/photos/2023-02-24/</loc>
+    <loc>http://719.hilouis.com/photos/2023-02-24/</loc>
     <lastmod>2023-02-23T17:51:13+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/example/</loc>
+    <loc>http://719.hilouis.com/tags/example/</loc>
     <lastmod>2023-02-23T17:51:13+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/</loc>
+    <loc>http://719.hilouis.com/</loc>
     <lastmod>2023-02-23T17:51:13+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/photos/</loc>
+    <loc>http://719.hilouis.com/photos/</loc>
     <lastmod>2023-02-23T17:51:13+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/samples/</loc>
+    <loc>http://719.hilouis.com/tags/samples/</loc>
     <lastmod>2023-02-23T17:51:13+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/something/</loc>
+    <loc>http://719.hilouis.com/tags/something/</loc>
     <lastmod>2023-02-23T17:51:13+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>http://719.hilouis.com/tags/</loc>
     <lastmod>2023-02-23T17:51:13+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/2023%E6%88%91%E7%9A%84%E5%8D%9A%E5%AE%A2/</loc>
+    <loc>http://719.hilouis.com/post/2023%E6%88%91%E7%9A%84%E5%8D%9A%E5%AE%A2/</loc>
     <lastmod>2023-02-21T17:26:40+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/</loc>
+    <loc>http://719.hilouis.com/post/</loc>
     <lastmod>2023-02-21T17:26:40+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>http://719.hilouis.com/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/contact/</loc>
+    <loc>http://719.hilouis.com/contact/</loc>
   </url>
 </urlset>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Photos on KAHOSENSE</title>
+    <link>https://kahosense.github.io/photos/</link>
+    <description>Recent content in Photos on KAHOSENSE</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 23 Feb 2023 17:51:13 +0800</lastBuildDate><atom:link href="https://kahosense.github.io/photos/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>7點的起床</title>
+      <link>https://kahosense.github.io/photos/2023-02-24/</link>
+      <pubDate>Thu, 23 Feb 2023 17:51:13 +0800</pubDate>
+      
+      <guid>https://kahosense.github.io/photos/2023-02-24/</guid>
+      <description>Here are some photos for your viewing pleasure.</description>
+    </item>
+    
+  </channel>
+</rss>

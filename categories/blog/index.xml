@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>KAHOSENSE</title>
-    <link>https://kahosense.github.io/</link>
-    <description>Recent content on KAHOSENSE</description>
+    <title>Blog on KAHOSENSE</title>
+    <link>https://kahosense.github.io/categories/blog/</link>
+    <description>Recent content in Blog on KAHOSENSE</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 02 Mar 2023 11:19:00 +0800</lastBuildDate><atom:link href="https://kahosense.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 02 Mar 2023 11:19:00 +0800</lastBuildDate><atom:link href="https://kahosense.github.io/categories/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>人生第二台數碼相機</title>
       <link>https://kahosense.github.io/post/my-second-digital-camera/</link>
@@ -19,26 +19,6 @@
     </item>
     
     <item>
-      <title>能質樸真好</title>
-      <link>https://kahosense.github.io/post/%E8%83%BD%E8%B3%AA%E6%A8%B8%E7%9C%9F%E5%A5%BD/</link>
-      <pubDate>Wed, 01 Mar 2023 17:26:40 +0800</pubDate>
-      
-      <guid>https://kahosense.github.io/post/%E8%83%BD%E8%B3%AA%E6%A8%B8%E7%9C%9F%E5%A5%BD/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/kahosense/kahosense.github.io/main/images/R0000562.jpeg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
-&lt;p&gt;我看見阿姨走出檔口前張羅，一隻幼貓亂竄在貨架下，然後跑向了隔壁的藥房，阿姨立即邁出八字腳的步姿作勢地追了上去，同時發出逗貓的聲音，&amp;ldquo;喵喵喵～喵喵喵～&amp;hellip;&amp;quot;，從聲音中我聽到她與貓是已經相識的。&lt;/p&gt;
-&lt;p&gt;這是一位年近六十歲的阿姨，由於她八字腳笨拙的跑姿實在太可愛，當時我心裡突然有了一句獨白：「能質樸真好。」&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>7點的起床</title>
-      <link>https://kahosense.github.io/photos/2023-02-24/</link>
-      <pubDate>Thu, 23 Feb 2023 17:51:13 +0800</pubDate>
-      
-      <guid>https://kahosense.github.io/photos/2023-02-24/</guid>
-      <description>Here are some photos for your viewing pleasure.</description>
-    </item>
-    
-    <item>
       <title>2023，我的博客</title>
       <link>https://kahosense.github.io/post/hilouis/</link>
       <pubDate>Tue, 21 Feb 2023 17:26:40 +0800</pubDate>
@@ -47,15 +27,6 @@
       <description>&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/kahosense/kahosense.github.io/main/images/R0000002.jpeg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;p&gt;在突破程式代碼的難題後，終於成功搭建了屬於自己的博客。&lt;/p&gt;
 &lt;p&gt;懷念小時候寫博客的時光，有一個自己小小的地方，不會被打擾，也無需在社交平台刻意曝光自己的生活點滴。我只需要有一個小小的地方，想瞭解我的人會常來，而不熟悉我的也不會在意，這里是我給自己的「朋友圈」。&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Contact</title>
-      <link>https://kahosense.github.io/contact/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://kahosense.github.io/contact/</guid>
-      <description>You can reach me by Email at email[at]example.</description>
     </item>
     
   </channel>

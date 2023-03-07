@@ -2,27 +2,27 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>KAHOSENSE</title>
-    <link>https://kahosense.github.io/</link>
+    <link>kahosense.github.io/</link>
     <description>Recent content on KAHOSENSE</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 02 Mar 2023 11:19:00 +0800</lastBuildDate><atom:link href="https://kahosense.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 02 Mar 2023 11:19:00 +0800</lastBuildDate><atom:link href="kahosense.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>人生的第二台數碼相機</title>
-      <link>https://kahosense.github.io/post/my-second-digital-camera/</link>
+      <link>kahosense.github.io/post/my-second-digital-camera/</link>
       <pubDate>Thu, 02 Mar 2023 11:19:00 +0800</pubDate>
       
-      <guid>https://kahosense.github.io/post/my-second-digital-camera/</guid>
+      <guid>kahosense.github.io/post/my-second-digital-camera/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;https://719-1251425743.cos.ap-guangzhou.myqcloud.com/blog/20230306110735.png&#34; alt=&#34;image.png&#34;&gt;&lt;/p&gt;
-&lt;p&gt;相隔超過10年，購入了人生的第二台數碼相機，RICOH GRIIIx（第一台同樣是RICOH）。&lt;/p&gt;</description>
+&lt;p&gt;相隔超過10年的時間，購入了人生的第二台數碼相機，RICOH GRIIIx（第一台同樣是RICOH）。&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>能質樸真好</title>
-      <link>https://kahosense.github.io/post/%E8%83%BD%E8%B3%AA%E6%A8%B8%E7%9C%9F%E5%A5%BD/</link>
+      <link>kahosense.github.io/post/%E8%83%BD%E8%B3%AA%E6%A8%B8%E7%9C%9F%E5%A5%BD/</link>
       <pubDate>Wed, 01 Mar 2023 17:26:40 +0800</pubDate>
       
-      <guid>https://kahosense.github.io/post/%E8%83%BD%E8%B3%AA%E6%A8%B8%E7%9C%9F%E5%A5%BD/</guid>
+      <guid>kahosense.github.io/post/%E8%83%BD%E8%B3%AA%E6%A8%B8%E7%9C%9F%E5%A5%BD/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;https://719-1251425743.cos.ap-guangzhou.myqcloud.com/blog/R0000559.jpeg&#34; alt=&#34;R0000559.jpeg&#34;&gt;&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;自己到了這個年紀，發現喜歡與質樸的人接觸，處於單純的環境，接受單純的交流，同時不需要裝出一個「自我」。&lt;/p&gt;
@@ -31,20 +31,20 @@
     
     <item>
       <title>2023，我的博客</title>
-      <link>https://kahosense.github.io/post/hilouis/</link>
+      <link>kahosense.github.io/post/hilouis/</link>
       <pubDate>Tue, 21 Feb 2023 17:26:40 +0800</pubDate>
       
-      <guid>https://kahosense.github.io/post/hilouis/</guid>
+      <guid>kahosense.github.io/post/hilouis/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;https://719-1251425743.cos.ap-guangzhou.myqcloud.com/blog/20230306194627.png&#34; alt=&#34;image.png&#34;&gt;
 在突破程式代碼的難題後，終於成功搭建了屬於自己的博客。&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Contact</title>
-      <link>https://kahosense.github.io/contact/</link>
+      <link>kahosense.github.io/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://kahosense.github.io/contact/</guid>
+      <guid>kahosense.github.io/contact/</guid>
       <description>You can reach me by Email at email[at]example.</description>
     </item>
     

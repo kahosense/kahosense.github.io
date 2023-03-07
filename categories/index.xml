@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on KAHOSENSE</title>
-    <link>kahosense.github.io/categories/</link>
+    <link>http://719.hilouis.com/categories/</link>
     <description>Recent content in Categories on KAHOSENSE</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 02 Mar 2023 11:19:00 +0800</lastBuildDate><atom:link href="kahosense.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 02 Mar 2023 11:19:00 +0800</lastBuildDate><atom:link href="http://719.hilouis.com/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Blog</title>
-      <link>kahosense.github.io/categories/blog/</link>
+      <link>http://719.hilouis.com/categories/blog/</link>
       <pubDate>Thu, 02 Mar 2023 11:19:00 +0800</pubDate>
       
-      <guid>kahosense.github.io/categories/blog/</guid>
+      <guid>http://719.hilouis.com/categories/blog/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Essay</title>
-      <link>kahosense.github.io/categories/essay/</link>
+      <link>http://719.hilouis.com/categories/essay/</link>
       <pubDate>Wed, 01 Mar 2023 17:26:40 +0800</pubDate>
       
-      <guid>kahosense.github.io/categories/essay/</guid>
+      <guid>http://719.hilouis.com/categories/essay/</guid>
       <description></description>
     </item>
     

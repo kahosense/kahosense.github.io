@@ -2,27 +2,27 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Blog on KAHOSENSE</title>
-    <link>http://719.hilouis.com/categories/blog/</link>
+    <link>https://kahosense.github.io/categories/blog/</link>
     <description>Recent content in Blog on KAHOSENSE</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 02 Mar 2023 11:19:00 +0800</lastBuildDate><atom:link href="http://719.hilouis.com/categories/blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 02 Mar 2023 11:19:00 +0800</lastBuildDate><atom:link href="https://kahosense.github.io/categories/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>人生的第二台數碼相機</title>
-      <link>http://719.hilouis.com/post/my-second-digital-camera/</link>
+      <link>https://kahosense.github.io/post/my-second-digital-camera/</link>
       <pubDate>Thu, 02 Mar 2023 11:19:00 +0800</pubDate>
       
-      <guid>http://719.hilouis.com/post/my-second-digital-camera/</guid>
+      <guid>https://kahosense.github.io/post/my-second-digital-camera/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;https://719-1251425743.cos.ap-guangzhou.myqcloud.com/blog/20230306110735.png&#34; alt=&#34;image.png&#34;&gt;&lt;/p&gt;
 &lt;p&gt;相隔超過10年的時間，購入了人生的第二台數碼相機，RICOH GRIIIx（第一台同樣是RICOH）。&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>2023，我的博客</title>
-      <link>http://719.hilouis.com/post/hilouis/</link>
+      <link>https://kahosense.github.io/post/hilouis/</link>
       <pubDate>Tue, 21 Feb 2023 17:26:40 +0800</pubDate>
       
-      <guid>http://719.hilouis.com/post/hilouis/</guid>
+      <guid>https://kahosense.github.io/post/hilouis/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;https://719-1251425743.cos.ap-guangzhou.myqcloud.com/blog/20230306194627.png&#34; alt=&#34;image.png&#34;&gt;
 在突破程式代碼的難題後，終於成功搭建了屬於自己的博客。&lt;/p&gt;</description>
     </item>

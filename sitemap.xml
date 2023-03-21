@@ -2,38 +2,42 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://719.hilouis.com/categories/</loc>
+    <loc>https://kahosense.github.io/categories/</loc>
     <lastmod>2023-03-12T13:43:53+08:00</lastmod>
   </url><url>
-    <loc>http://719.hilouis.com/</loc>
+    <loc>https://kahosense.github.io/</loc>
     <lastmod>2023-03-12T13:43:53+08:00</lastmod>
   </url><url>
-    <loc>http://719.hilouis.com/categories/photography/</loc>
+    <loc>https://kahosense.github.io/categories/photography/</loc>
     <lastmod>2023-03-12T13:43:53+08:00</lastmod>
   </url><url>
-    <loc>http://719.hilouis.com/post/</loc>
+    <loc>https://kahosense.github.io/post/</loc>
     <lastmod>2023-03-12T13:43:53+08:00</lastmod>
   </url><url>
-    <loc>http://719.hilouis.com/post/we-all-just-pass-by/</loc>
+    <loc>https://kahosense.github.io/tags/</loc>
     <lastmod>2023-03-12T13:43:53+08:00</lastmod>
   </url><url>
-    <loc>http://719.hilouis.com/categories/blog/</loc>
+    <loc>https://kahosense.github.io/post/we-all-just-pass-by/</loc>
+    <lastmod>2023-03-12T13:43:53+08:00</lastmod>
+  </url><url>
+    <loc>https://kahosense.github.io/tags/%E8%A1%97%E6%8B%8D/</loc>
+    <lastmod>2023-03-12T13:43:53+08:00</lastmod>
+  </url><url>
+    <loc>https://kahosense.github.io/categories/blog/</loc>
     <lastmod>2023-03-02T11:19:00+08:00</lastmod>
   </url><url>
-    <loc>http://719.hilouis.com/post/my-second-digital-camera/</loc>
+    <loc>https://kahosense.github.io/post/my-second-digital-camera/</loc>
     <lastmod>2023-03-02T11:19:00+08:00</lastmod>
   </url><url>
-    <loc>http://719.hilouis.com/categories/essay/</loc>
+    <loc>https://kahosense.github.io/categories/essay/</loc>
     <lastmod>2023-03-01T17:26:40+08:00</lastmod>
   </url><url>
-    <loc>http://719.hilouis.com/post/%E8%83%BD%E8%B3%AA%E6%A8%B8%E7%9C%9F%E5%A5%BD/</loc>
+    <loc>https://kahosense.github.io/post/%E8%83%BD%E8%B3%AA%E6%A8%B8%E7%9C%9F%E5%A5%BD/</loc>
     <lastmod>2023-03-01T17:26:40+08:00</lastmod>
   </url><url>
-    <loc>http://719.hilouis.com/post/hilouis/</loc>
+    <loc>https://kahosense.github.io/post/hilouis/</loc>
     <lastmod>2023-02-21T17:26:40+08:00</lastmod>
   </url><url>
-    <loc>http://719.hilouis.com/contact/</loc>
-  </url><url>
-    <loc>http://719.hilouis.com/tags/</loc>
+    <loc>https://kahosense.github.io/contact/</loc>
   </url>
 </urlset>
